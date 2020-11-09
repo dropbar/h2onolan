@@ -19,16 +19,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title: h2onolan.com
-email: h2onolan@h2onolan.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   information security with a water/wastewater focus. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: h2onolan
-github_username:  
+github_username:
+keybase: kingnolan  
 
 # Build settings
 theme: minima
+minima:
+  skin: solarized
+  social_links:
+    twitter: h2onolan
+    keybase: kingnolan
 plugins:
   - jekyll-feed
 

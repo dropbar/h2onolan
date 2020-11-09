@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I've been working in water infrastructure for over 20 years. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In that time i have learned a few things about industrial automation, system administration, ICS security, incident response, and emergency management. I have forgotten most of it and broken a lot of stuff,  but if learn anything new i'll try to post it here. 
 
 
-[jekyll-organization]: https://github.com/jekyll
